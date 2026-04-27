@@ -37,9 +37,9 @@ Make sure you have installed:
 
 ---
 
-## ▶️ How to Run
+## ▶️ How to Run::
 
 From the root folder (`notes-docker`):
 
-```bash
+```bash::
 docker compose up --build
