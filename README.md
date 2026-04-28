@@ -18,7 +18,7 @@ This project is designed to help beginners understand Docker fundamentals with a
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack::
 
 - Node.js
 - Express
@@ -28,7 +28,7 @@ This project is designed to help beginners understand Docker fundamentals with a
 
 ---
 
-## ⚙️ Prerequisites
+## ⚙️ Prerequisites::
 
 Make sure you have installed:
 
