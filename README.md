@@ -1,4 +1,4 @@
-# NoteStack
+# NoteStack ::
 # docker-notes-api
 
 A tiny REST API to store and retrieve notes, built with Node.js and Redis, fully containerized using Docker and Docker Compose.
