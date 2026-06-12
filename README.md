@@ -7,7 +7,7 @@ A tiny REST API to store and retrieve notes, built with Node.js and Redis, fully
 
 
 
-## 🚀 What This Project Does
+## 🚀 What This Project Does:
 
 - Add notes via an HTTP API
 - Retrieve all saved notes
